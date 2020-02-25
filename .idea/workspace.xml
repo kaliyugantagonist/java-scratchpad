@@ -1,14 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../buildpublishreleaseplugin" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../jenkins-shared-library" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../jenkins-shared-utilities" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../jenkins-stages" value="PREVIEW" />
-      </map>
+  <component name="ChangeListManager">
+    <list default="true" id="0be33fb7-4338-4eb1-92d8-ff797a054b93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entities/generics/sierrabates/basic/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entities/generics/sierrabates/basic/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/entities/generics/sierrabates/basic/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/generics/sierrabates/basic/FirstLook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/generics/sierrabates/wildcard/AnythingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/generics/sierrabates/wildcard/ExtendsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/generics/sierrabates/wildcard/SuperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/generics/sierrabates/wildcard/AnythingExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/generics/sierrabates/wildcard/ExtendsExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/generics/sierrabates/wildcard/SuperExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/generics/BasicGenericsDemonstrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/generics/schildt/BasicGenericsDemonstrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/generics/BoundedTypeDemonstrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/generics/schildt/BoundedTypeDemonstrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/generics/GenericConstructorDemonstrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/generics/schildt/GenericConstructorDemonstrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/generics/WildcardMethodsDemonstrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/generics/schildt/WildcardMethodsDemonstrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/generics/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/generics/schildt/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/generics/BasicGenericsDemonstratorTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/generics/schildt/BasicGenericsDemonstratorTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/generics/BoundedTypeDemonstratorTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/generics/schildt/BoundedTypeDemonstratorTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/generics/GenericConstructorDemonstratorTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/generics/schildt/GenericConstructorDemonstratorTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/generics/WildcardMethodsDemonstratorTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/generics/schildt/WildcardMethodsDemonstratorTester.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaScratchpad" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaScratchpad" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaScratchpad" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kaliyugantagonist &lt;kaliyugantagonist@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
@@ -16,23 +96,208 @@
     <option name="width" value="1698" />
     <option name="height" value="1020" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="ProjectId" id="1YAt18nABexLUhyKLwp1q0eWhFe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="com.generics.sierrabates.wildcard.ExtendsExample" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Spock" value="spock.lang.Specification" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.generics.sierrabates.wildcard" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="com.generics.sierrabates.wildcard.ExtendsExample" />
+      <recent name="spock.lang.Specification" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.entities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.AnythingExampleTest">
+    <configuration name="AnythingExampleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.generics.sierrabates.wildcard.AnythingExampleTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AnythingExampleTest.passCatListToAnythingWildcard" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.generics.sierrabates.wildcard.AnythingExampleTest.passCatListToAnythingWildcard&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ExtendsExampleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.generics.sierrabates.wildcard.ExtendsExampleTest&quot; --info" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SuperExampleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.generics.sierrabates.wildcard.SuperExampleTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SuperExampleTest.passObjectList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.generics.sierrabates.wildcard.SuperExampleTest.passObjectList&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AnythingExampleTest" />
+        <item itemvalue="Gradle.AnythingExampleTest.passCatListToAnythingWildcard" />
+        <item itemvalue="Gradle.SuperExampleTest.passObjectList" />
+        <item itemvalue="Gradle.SuperExampleTest" />
+        <item itemvalue="Gradle.ExtendsExampleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be33fb7-4338-4eb1-92d8-ff797a054b93" name="Default Changelist" comment="" />
+      <created>1582397008679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582397008679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1582401545058">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="213" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1582401545058" />
+    <state x="577" y="287" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582405628570">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="577" y="287" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582405628570" />
+    <state x="329" y="429" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582399649969">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="329" y="429" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582399649969" />
+    <state x="286" y="127" key="CommitChangelistDialog2" timestamp="1582619847147">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="286" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1582619847147" />
+    <state width="1638" height="247" key="GridCell.Tab.0.bottom" timestamp="1582619611348">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582619611348" />
+    <state width="1638" height="247" key="GridCell.Tab.0.center" timestamp="1582619611347">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582619611347" />
+    <state width="1638" height="247" key="GridCell.Tab.0.left" timestamp="1582619611346">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582619611346" />
+    <state width="1638" height="247" key="GridCell.Tab.0.right" timestamp="1582619611347">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="247" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582619611347" />
+    <state x="328" y="78" key="SettingsEditor" timestamp="1582409486737">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="78" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582409486737" />
+    <state x="577" y="230" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582550287646">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="577" y="230" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582550287646" />
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1582405182725">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582405182725" />
   </component>
 </project>

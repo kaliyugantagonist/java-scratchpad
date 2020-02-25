@@ -1,4 +1,4 @@
-package com.generics;
+package com.generics.schildt;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
  */
 public class WildcardMethodsDemonstrator {
 
-	Logger logger = LoggerFactory.getLogger(WildcardMethodsDemonstratorTester.class);
+	Logger logger = LoggerFactory.getLogger(WildcardMethodsDemonstrator.class);
 
 	/*
 	 * Note: This is horrible! It can have instances of any type but methods

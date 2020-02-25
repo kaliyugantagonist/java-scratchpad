@@ -13,4 +13,4 @@
  * @author p950ojb
  *
  */
-package com.generics;
+package com.generics.schildt;

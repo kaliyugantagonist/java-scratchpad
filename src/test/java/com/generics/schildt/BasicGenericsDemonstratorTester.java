@@ -1,4 +1,4 @@
-package com.generics;
+package com.generics.schildt;
 
 import org.junit.Test;
 import org.slf4j.Logger;

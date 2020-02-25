@@ -1,4 +1,4 @@
-package com.generics;
+package com.generics.schildt;
 
 /**
  * A bounded type demonstrator.

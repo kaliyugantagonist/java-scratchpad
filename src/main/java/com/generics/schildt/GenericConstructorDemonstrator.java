@@ -1,4 +1,4 @@
-package com.generics;
+package com.generics.schildt;
 
 /**
  * Demonstrates that a non-generic class can have a generic constructor

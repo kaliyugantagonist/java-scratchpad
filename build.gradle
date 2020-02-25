@@ -11,12 +11,18 @@ plugins {
     id 'java'
 }
 
+java {
+	sourceCompatibility = JavaVersion.VERSION_11
+}
+
+
 dependencies {
     
 	//Added because JUnit4 failed
 	testImplementation 'org.hamcrest:hamcrest-library:1.3'
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
+
 
 	//log4j2
 	compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.11.1'

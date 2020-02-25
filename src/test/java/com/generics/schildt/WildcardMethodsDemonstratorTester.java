@@ -1,4 +1,4 @@
-package com.generics;
+package com.generics.schildt;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -7,7 +7,7 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.generics.WildcardMethodsDemonstrator.Animal;
+import com.generics.schildt.WildcardMethodsDemonstrator.Animal;
 
 public class WildcardMethodsDemonstratorTester {
 	
